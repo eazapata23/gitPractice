@@ -10,6 +10,9 @@ public class batch12 {
 		
 		System.out.println("we jdsljflsdfjdslkfjdsklfjsdf");
 		
+		System.out.println("akjfldkjafkj;f");
+		
+		
 	}
 
 }
